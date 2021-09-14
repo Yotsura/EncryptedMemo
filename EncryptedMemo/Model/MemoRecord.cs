@@ -1,6 +1,4 @@
-﻿using System.IO;
-using EncryptedMemo.Funcs;
-using EncryptUtilLibrary;
+﻿using EncryptUtilLibrary;
 
 namespace EncryptedMemo
 {
